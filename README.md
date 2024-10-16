@@ -8,4 +8,4 @@ XML condfig
 
 Stack:
 laguage: Python
-microcontroller: ESP32
+microcontroller: ESP 32
